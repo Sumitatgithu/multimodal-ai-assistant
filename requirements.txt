@@ -1,0 +1,10 @@
+openai
+langchain
+opencv-python
+numpy
+pillow
+speechrecognition
+pyaudio
+gtts
+whisper
+google-generativeai
